@@ -29,7 +29,6 @@
 
 - 🦆 [**microduck_rl**](https://github.com/8787greenhat/microduck_rl) — Reinforcement-learning environments for Microduck.
 - 🏫 [**ClassRoom_Simulator**](https://github.com/8787greenhat/ClassRoom_Simulator) — A classroom simulation built with Python.
-- 🎮 [**Class-management.smallgame**](https://github.com/8787greenhat/Class-management.smallgame) — A browser game about classroom-management strategies.
 
 ## GitHub Stats
 
